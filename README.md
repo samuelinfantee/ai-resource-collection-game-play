@@ -24,9 +24,9 @@ It’s simple but works well in practice.
 
 ## Example run
 When you run the game with minimax vs minimax, you’ll see a full playthrough printed turn by turn. At the end, you get a summary like:
-"Search stats over the whole game
+Search stats over the whole game
 Minimax (plain): nodes expanded=1670, runtime=9.95 ms
 Alpha–beta : nodes expanded=1200, runtime=6.48 ms, cutoffs=163
-Player A wins! Delivered A=5, B=4"
+Player A wins! Delivered A=5, B=4
 
 
