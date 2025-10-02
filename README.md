@@ -29,7 +29,7 @@ Minimax (plain): nodes expanded=1670, runtime=9.95 ms.
 Alpha–beta : nodes expanded=1200, runtime=6.48 ms, cutoffs=163  
 Player A wins! Delivered A=5, B=4  
 
-## 8) How to run
+## How to run
 Make sure you have Python 3.9+ installed. Install dependencies:  pip install matplotlib  
 Then run the code `sinfante_Intro_AI_Project 1 part 3.py`  
 (Optional) Change the agents or map in the __main__ section at the bottom of the file:  
