@@ -30,7 +30,7 @@ When you run the game with minimax vs minimax, you’ll see a full playthrough p
 ## Player A wins! Delivered A=5, B=4
 
 ## 8) How to run
-Make sure you have Python 3.9+ installed. Install dependencies:
-pip install matplotlib
-Then run the code "sinfante_Intro_AI_Project 1 part 3.py"
+- Make sure you have Python 3.9+ installed. Install dependencies:
+- pip install matplotlib
+- Then run the code "sinfante_Intro_AI_Project 1 part 3.py"
 
