@@ -31,7 +31,7 @@ When you run the game with minimax vs minimax, you’ll see a full playthrough p
 
 ## 8) How to run
 Make sure you have Python 3.9+ installed. Install dependencies:  
-- pip install matplotlib  
+- pip install matplotlib
 Then run the code `sinfante_Intro_AI_Project 1 part 3.py`  
 (Optional) Change the agents or map in the __main__ section at the bottom of the file:  
 result = play_game(  
