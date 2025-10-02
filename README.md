@@ -1,6 +1,5 @@
 # AI Resource Collection Game (Project 1 Part 3)
-
-This is my implementation of the two-player resource collection game for Intro to AI.  
+ 
 The goal was to make two agents play against each other on a 5×5 grid, where they move around, pick up resources, and try to deliver them back to their bases. Under the hood, the decision-making is powered by **minimax search** and **alpha–beta pruning**.
 
 I tried to keep the code clean and readable, with comments explaining each major piece. The fun part is comparing how plain minimax vs. alpha–beta perform in terms of expanded nodes and runtime.
